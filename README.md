@@ -3,3 +3,4 @@
 - 💼 Hoje não estou trabalhando
 - 🧑‍💻 Estudando html, CSS e SQL
 - 👤 Pronomes: ele/dele
+- 🎓 Cursando bacharelado em Ciência e Tecnologia - UNIFESP
